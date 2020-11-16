@@ -1,0 +1,20 @@
+$borderline: 1px solid #ddd;
+
+.App {
+  header,
+  main, 
+  footer {
+    padding: 1em;
+  }
+
+  main {
+    border-bottom: $borderline;
+    background-color: white;
+  }
+
+  footer {
+    padding: 0;
+    min-height: 20vh;
+    text-align: center;
+  }
+}
