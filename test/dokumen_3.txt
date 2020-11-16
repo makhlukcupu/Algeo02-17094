@@ -1,0 +1,13 @@
+According to the Ministry of Domestic Affairs, a regency or municipality may be classified into three levels depending on the severity of COVID-19 cases within the region, according to these parameters:[34]
+
+The number of positive cases within 14 days
+The number of suspected cases within 14 days
+The number of deaths buried according to COVID-19 protocol within 14 days
+Threat of disease contagions to healthcare workers
+Each has a score of 15 points for increasing trends, 20 for stationary trends, and 25 for decreasing trends.
+
+The three levels will be assigned to a specific region:
+
+Red Zone if the total score reaches below 80 points. Large-scale social restrictions may be enforced.
+Yellow Zone if the total score reaches 80 to 95 points.
+Green Zone if the total score reaches 100 points (all 4 parameters show a decreasing trend).
